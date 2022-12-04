@@ -151,8 +151,8 @@ class AiTickTackToe:
             return grid[0][2]
         return False
 
-    
-    
+        
 game = AiTickTackToe()
 game.initialiseGrid()
 game.playGame()
+
