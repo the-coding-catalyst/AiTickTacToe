@@ -153,3 +153,6 @@ class AiTickTackToe:
 
     
     
+game = AiTickTackToe()
+game.initialiseGrid()
+game.playGame()
